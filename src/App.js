@@ -10,6 +10,8 @@ const flagsDictionay = {
   "🇮🇱": "Israel",
   "🇮🇲 ": "Isle of Man",
   "🇮🇳": "India"
+  "🇵🇭": "Philippines",
+  "🇵🇰": "Pakistan"
 };
 
 var flagsWeknow = Object.keys(flagsDictionay);
